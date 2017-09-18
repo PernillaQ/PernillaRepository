@@ -1,0 +1,159 @@
+body
+{
+ 	background-color:#1a2023;
+ 	color:gray;
+ 	text-align:center;
+ 	font-family:'andalus',serif;
+}
+
+.background
+
+{
+	background-color:#13181a ;
+	padding-top: 10px;
+	border-bottom: 1px dotted #cfc89f;
+	
+}
+.navbar
+
+{
+	text-align:center;
+	font-weight:normal;
+    background-color:#1a2023;
+	border-bottom: 1px dotted #cfc89f;
+}
+
+.kontaktuppgifter
+
+{
+	background-color:#13181a; 
+	padding:30px; 
+	color:#lightgray;
+	font-weight:bold;
+	text-decoration:none;
+	text-align: center;
+}
+
+h1
+
+{
+	color:#bfa161; 
+    font-weight:normal;
+    font-style: italic;
+	text-align:center;	
+	
+}
+
+h2
+
+{
+	color:#cfc89f;
+	font-weight: normal;
+}
+
+h3
+
+{
+color:#cfa752;
+}
+
+h4
+{
+	color: silver;
+}
+
+.image-cropper
+{
+	width: 300px;
+	height: 300px;
+	position: relative;
+	overflow: hidden;
+	border-radius: 50%;
+
+}
+
+img
+
+{
+	display: inline;
+	margin: 0 auto;
+	height: 100%;
+	width: auto;
+}
+
+table 
+
+{ 
+	width: 100%; 
+}
+
+th
+
+{
+	width:10%;
+	height: 100%;
+	
+}
+
+td
+
+{
+	padding:10px;
+	text-align:center;
+	font-weight: normal;
+	font-size: 20px;
+}
+
+
+
+.color
+
+{
+	background-color:#1a2023; 
+    padding:10px; 
+
+}
+
+ .dots
+ 
+{
+    border-top: 1px dotted #cfc89f;
+}
+
+
+ul
+
+{
+    background-color:#13181a; 
+    padding:25px; 
+    color:#bfa161;
+	font-weight:normal;
+	text-decoration:none;
+	text-align: center;
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+a
+
+{
+ text-decoration: none;
+ color:#cfc89f;
+}
+
+
+a:hover 
+{
+ text-decoration: none;
+ color: #bfa161;
+}
+
+
+.språk
+{
+	background-color: #1a2023;
+	padding-bottom: 20px;
+	
+}
+
